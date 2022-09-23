@@ -7,13 +7,9 @@
 以火车线路为例：`map<string, vector<train_Node>> train_node_list;`
 string为城市名字，train_Node为结构体，详情如下：
 ```C++
-struct train_Edge {
-		double distance;//火车的路程
-		string code;
-		struct time start_time;//火车起始时间
-		struct time end_time;//火车到达时间
-		double total_time;//火车总用时
-		double money;//火车票价格
+struct train_Node {
+		string name;//城市名字
+		double waiting_time;//火车中转等待时间
 	};
 ```
 todo...
