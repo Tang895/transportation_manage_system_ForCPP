@@ -1,12 +1,13 @@
 ﻿  main.cpp
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(154,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(146): message : 在编译 类 模板 成员函数“void Graph<int>::delete_plane_edge(std::string,std::string)”时
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\main.cpp(178): message : 查看对正在编译的函数 模板 实例化“void Graph<int>::delete_plane_edge(std::string,std::string)”的引用
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\main.cpp(203): message : 查看对正在编译的 类 模板 实例化“Graph<int>”的引用
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(136,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(128): message : 在编译 类 模板 成员函数“void Graph<int>::delete_train_edge(std::string,std::string)”时
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\main.cpp(160): message : 查看对正在编译的函数 模板 实例化“void Graph<int>::delete_train_edge(std::string,std::string)”的引用
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(121,40): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(116): message : 在编译 类 模板 成员函数“int Graph<int>::get_plane_distance(std::string,std::string)”时
-C:\Users\ian-PC-Matx\source\repos\交通咨询系统\graph.h(151): message : 查看对正在编译的函数 模板 实例化“int Graph<int>::get_plane_distance(std::string,std::string)”的引用
-  交通咨询系统.vcxproj -> C:\Users\ian-PC-Matx\source\repos\交通咨询系统\x64\Debug\交通咨询系统.exe
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(154,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(146): message : 在编译 类 模板 成员函数“void Graph<int>::delete_plane_edge(std::string,std::string)”时
+D:\GitRepositories\transportation_manage_system_ForCPP\main.cpp(178): message : 查看对正在编译的函数 模板 实例化“void Graph<int>::delete_plane_edge(std::string,std::string)”的引用
+D:\GitRepositories\transportation_manage_system_ForCPP\main.cpp(203): message : 查看对正在编译的 类 模板 实例化“Graph<int>”的引用
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(136,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(128): message : 在编译 类 模板 成员函数“void Graph<int>::delete_train_edge(std::string,std::string)”时
+D:\GitRepositories\transportation_manage_system_ForCPP\main.cpp(160): message : 查看对正在编译的函数 模板 实例化“void Graph<int>::delete_train_edge(std::string,std::string)”的引用
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(121,40): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(116): message : 在编译 类 模板 成员函数“int Graph<int>::get_plane_distance(std::string,std::string)”时
+D:\GitRepositories\transportation_manage_system_ForCPP\graph.h(151): message : 查看对正在编译的函数 模板 实例化“int Graph<int>::get_plane_distance(std::string,std::string)”的引用
+  LINK : 没有找到 D:\GitRepositories\transportation_manage_system_ForCPP\x64\Debug\交通咨询系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+  交通咨询系统.vcxproj -> D:\GitRepositories\transportation_manage_system_ForCPP\x64\Debug\交通咨询系统.exe
